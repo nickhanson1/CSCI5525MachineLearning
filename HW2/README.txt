@@ -1,7 +1,3 @@
-Nick Hanson
-5458741
-hans6064@umn.edu
-
 How to run: SVM_dual.py
   python SVM_dual.py <filename>
     where <filename> is the path to the dataset
