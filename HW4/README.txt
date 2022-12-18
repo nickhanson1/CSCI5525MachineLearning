@@ -1,7 +1,3 @@
-Nick Hanson
-5458741
-hans6064@umn.edu
-
 adaboost.py
 USE: adaboost.py <filename>
 	Will run the adaboost algoritm for 100 iterations on the dataset give. Will remove the first column of features,
