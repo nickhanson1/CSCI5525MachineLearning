@@ -1,11 +1,3 @@
-Nick Hanson
-
-5458741
-
-hans6064@umn.edu
-
-
-
 How to run: SVM_dual.py
   
 	python neural_net.py
